@@ -2,7 +2,7 @@
 
 The file in this repo were used to create a case for the Zaphod keyboard that avoided using the display screen. It was challenging to find the display part available.
 
-The front coves act as a switch plate, which are trapped on once the switches are soldered.
+The front covers act as a switch plate, which are trapped on once the switches are soldered. These are unecessary to support the switches but do help make the case more ... integrated.
 
 The hardware used were m3 low-profile socket head cap screws. I believe 8mm long.
 
