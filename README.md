@@ -8,8 +8,8 @@ The hardware used were m3 low-profile socket head cap screws. I believe 8mm long
 
 # Images
 
-![Render](./images/img_rend.png)
-![Asm](./images/img_asm.jpg)
-![Asm2](./images/img_asm2.jpg)
-![Case](./images/img_case.jpg)
-![Ports](./images/img_ports.jpg)
+<img src="images/img_rend.png" alt="Render" width="750"/>
+<img src="images/img_asm.jpg" alt="Asm" width="750"/>
+<img src="images/img_asm2.jpg" alt="Asm2" width="750"/>
+<img src="images/igm_case.jpg" alt="Case" width="750"/>
+<img src="images/img_ports.jpg" alt="Ports" width="750"/>
